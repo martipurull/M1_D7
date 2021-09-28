@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+#main-container {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1, h2, form , footer {
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    color:rgb(250, 142, 0)
+}
+
+h2 {
+    color: rgb(250, 142, 0);
+    margin: 0;
+}
+
+h1, footer {
+    background-color: rgb(216, 160, 87);
+    margin: 0;
+    padding: 30px;
+}
+
+table, th, td {
+    border: 1px solid rgb(216, 160, 87);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+label, button, textarea {
+    margin: 10px;
+}
+
+label {
+    color: rgb(250, 142, 0);
+}
+
+button {
+    background-color: rgb(250, 142, 0);
+    border: 5px solid black;
+    padding: 10px
+}
+
+button:hover {
+    background-color: white;
+}
+
+textarea {
+        margin-left: auto;
+    margin-right: auto;
+}
