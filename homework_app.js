@@ -19,7 +19,7 @@ const changeBg = function () {
 // }
 
 const changeFooter = function () {
-    let footerToChange = document.querySelector('footer')
+    let footerToChange = document.getElementById('address')
     footerToChange.innerText = 'WE DO NOT WANT YOU TO FIND US'
 }
 
