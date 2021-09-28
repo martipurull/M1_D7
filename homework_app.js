@@ -9,6 +9,15 @@ const changeBg = function () {
     mainContainer.style.backgroundColor = randomColour
 }
 
+// const changeBgImg = function () {
+//     let mainContainer = document.getElementById('main-container')
+//     if (mainContainer.className = "bgImg1") {
+//         mainContainer.className = 'bgImg2'
+//     } else {
+//         mainContainer.className = "bgImg1"
+//     }
+// }
+
 const changeFooter = function () {
     let footerToChange = document.querySelector('footer')
     footerToChange.innerText = 'WE DO NOT WANT YOU TO FIND US'

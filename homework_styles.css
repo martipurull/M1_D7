@@ -2,9 +2,21 @@ body {
     margin: 0;
 }
 
-.bgOne {
+#main-container {
     background-color: rgb(255, 202, 122);
 }
+
+/* .bgImg1 {
+    background-image: url(https://images.unsplash.com/photo-1518066000714-58c45f1a2c0a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2370&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bgImg2 {
+        background-image: url(https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2370&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+} */
 
 h1, h2, form , footer {
     text-align: center;
